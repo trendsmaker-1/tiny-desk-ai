@@ -70,3 +70,10 @@ Step-by-step guide: [How to make the Outstanding Tiny Desk AI video](https://tin
 ## Disclaimer
 
 This project and [Tiny Desk AI](https://tinydeskaimeme.com/) are independent and not affiliated with NPR, Charlie Wilson or the Gap Band. Label AI remakes as AI, and never present one as a real appearance or endorsement.
+
+## More guides
+
+- [How to make a Tiny Desk AI video](https://huggingface.co/blog/trendremakes/how-to-make-tiny-desk-ai-video)
+- [Outstanding Tiny Desk AI: make the full 18-second video with your band](https://huggingface.co/blog/trendremakes/outstanding-tiny-desk-ai)
+- [Outstanding AI video: 12 ideas for your own Tiny Desk band](https://huggingface.co/blog/trendremakes/outstanding-ai-video)
+- [Tiny Desk AI video generator: make the Outstanding video from a photo](https://huggingface.co/blog/dddffgassa/tiny-desk-ai-video-generator)
